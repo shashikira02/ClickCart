@@ -1,0 +1,38 @@
+# Node.js modules
+node_modules
+
+# Environment variables
+.env
+
+# Log files
+access.log
+*.log
+
+# Dependency versions
+package-lock.json
+
+# Certificates
+server.cert
+server.key
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*.swo
+~$*
+
+# Build files
+dist/
+build/
